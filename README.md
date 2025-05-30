@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kévin (aka K-ron)</h1>
+<h1 align="center">Hi 👋, I'm Kévin</h1>
 <h3 align="center">A junior full-stack developer passionate about Java, Angular & modern web tech</h3>
 
 <p align="center">🇫🇷 Francophone developer based in France – improving my technical English every day!</p>
