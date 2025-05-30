@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning **Docker**, **advanced Spring Boot**, and **software architecture**
 - 🛠️ Tech Stack: **Java**, **Spring Boot**, **Angular**, **MySQL**, **Docker**
 - 💡 Also explored: **React**, **Node.js** (via bootcamp)
-- 📫 Reach me: [your.email@example.com] or [your LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🧠 Always curious about clean code, APIs, and dev best practices
-- ⚡ Fun fact: I love learning new tools and challenging myself with side projects!
+- 📫 Reach me: kevin.caron.91@gmail.com or https://www.linkedin.com/in/kevincaron
 
 ---
 
