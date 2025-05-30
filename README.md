@@ -62,7 +62,7 @@ Here are some of my recent projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-bottom: 10px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="70" style="margin-bottom: 10px;" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="70" style="margin-bottom: 10px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="70" style="margin-bottom: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="70" style="margin-bottom: 10px;"/> 
 </div>
 
 
