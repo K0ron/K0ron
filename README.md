@@ -48,9 +48,17 @@ Here are some of my recent projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
 </p>
 
-### ⚙️ Outils
+### 🚀🤖 DevOps
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" />
+
+  
+</p>
+
+### ⚙️ Outils
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/>
 </p>
 
