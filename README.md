@@ -5,10 +5,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Docker**, **advanced Spring Boot**, and **software architecture**
 - 🛠️ Tech Stack: **Java**, **Spring Boot**, **Angular**, **MySQL**, **Docker**
 - 💡 Also explored: **React**, **Node.js** (via bootcamp)
-- 📫 Reach me: kevin.caron.91@gmail.com or https://www.linkedin.com/in/kevincaron
+- 📫 Reach me: [kevin.caron.91@gmail.com] or [https://www.linkedin.com/in/kevincaron]
 
 ---
 
@@ -16,9 +15,10 @@
 
 Here are some of my recent projects:
 
-- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack) – A backend API for booking adventure activities (Java + Spring Boot + MySQL)
-- 🌐 [ng-pokemon-app](https://github.com/K0ron/ng-pokemon-app) – A Pokémon-themed Angular app to practice routing and component design
-- ⚛️ [React Bootcamp Projects](https://github.com/K0ron?tab=repositories&q=react) – Mini-projects from my React + Node.js bootcamp
+- 🥩 [Showcase website for a brasero catering business](https://www.lesbonnesgueules.fr) — Showcase website for a local brasero catering business, featuring the menu, team presentation, contact form, and service.
+- 🔺 [AirVentureFront](https://github.com/K0ron/AirVentureFront) – Frontend application built with Angular for booking adventure activities - (School project)
+- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack) – A backend API for booking adventure activities (Java + Spring Boot + MySQL) - (School project)
+- 🌐 [ng-pokemon-app](https://github.com/K0ron/ng-pokemon-app) – A Pokémon-themed Angular app focused on practicing routing and component design. (Solo training with Udemy to learn Angular)
 
 ---
 
