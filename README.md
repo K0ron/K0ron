@@ -58,12 +58,12 @@ Here are some of my recent projects:
 </p>
 
 ### 🖥️ IDE & Outils de développement
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-bottom: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="70" style="margin-bottom: 10px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="70" style="margin-bottom: 10px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="70" style="margin-bottom: 10px;"/> 
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="70" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="70" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="70"/> 
+</p>
 
 
 
