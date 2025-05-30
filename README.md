@@ -16,8 +16,8 @@
 Here are some of my recent projects:
 
 - 🥩 [Showcase website for a brasero catering business](https://www.lesbonnesgueules.fr) — Showcase website for a local brasero catering business, featuring the menu, team presentation, contact form, and service.
-- 🔺 [AirVentureFront](https://github.com/K0ron/AirVentureFront) – Frontend application built with Angular for booking adventure activities - (School project)
-- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack) – A backend API for booking adventure activities (Java + Spring Boot + MySQL) - (School project)
+- 🔺 [AirVentureFront](https://github.com/K0ron/AirVentureFront) – Frontend application built with Angular for booking adventure activities - (School project - CDA title)
+- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack) – A backend API for booking adventure activities (Java + Spring Boot + MySQL) - (School project - CDA title)
 - 🌐 [ng-pokemon-app](https://github.com/K0ron/ng-pokemon-app) – A Pokémon-themed Angular app focused on practicing routing and component design. (Solo training with Udemy to learn Angular)
 
 ---
