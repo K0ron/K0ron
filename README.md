@@ -59,10 +59,10 @@ Here are some of my recent projects:
 
 ### 🖥️ IDE & Outils de développement
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/> — used in coursework and professional environments
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="70" /> — used mainly in coursework
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="70" /> — used mainly in coursework
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="70"/> — used in professional work environments 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-bottom: 10px;"/> — used in coursework and professional environments
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="70" style="margin-bottom: 10px;" /> — used mainly in coursework
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="70" style="margin-bottom: 10px;" /> — used mainly in coursework
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="70" style="margin-bottom: 10px;"/> — used in professional work environments 
 </div>
 
 
