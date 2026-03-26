@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
-<h3 align="center">A junior full-stack developer passionate about Java, Angular & modern web tech</h3>
+<h3 align="center">
+Full-stack developer (Java / Angular) exploring embedded systems with C++ & Qt
+</h3>
 
-<p align="center">🇫🇷 Francophone developer based in France – improving my technical English every day!</p>
+<p align="center">
+🇫🇷 Based in France — actively improving my technical English and working on real-world projects
+</p>
 
 ---
 
-- 🛠️ Tech Stack: **Java**, **Spring Boot**, **Angular**, **MySQL**, **Docker**
-- 💡 Also explored: **React**, **Node.js** (via bootcamp)
-- 📫 Reach me: [kevin.caron.91@gmail.com] or [https://www.linkedin.com/in/kevincaron]
+## 🎯 Current Focus
+
+- Learning **C++ and Qt (QML)** for embedded systems
+- Building real-world applications with **Java / Spring Boot / Angular**
+- Preparing hardware integration for my sterilizer project
 
 ---
 
@@ -15,17 +21,26 @@
 
 Here are some of my recent projects:
 
-- 🥩 [Showcase website for a brasero catering business](https://www.lesbonnesgueules.fr) — Showcase website for a local brasero catering business, featuring the menu, team presentation, contact form, and service.
-- 🔺 [AirVentureFront](https://github.com/K0ron/AirVentureFront) – Frontend application built with Angular for booking adventure activities - (School project - CDA title)
-- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack) – A backend API for booking adventure activities (Java + Spring Boot + MySQL) - (School project - CDA title)
-- 🌐 [ng-pokemon-app](https://github.com/K0ron/ng-pokemon-app) – A Pokémon-themed Angular app focused on practicing routing and component design. (Solo training with Udemy to learn Angular)
-- ⚙️📟 [Sterilizer](https://github.com/K0ron/sterilizer) – Embedded sterilizer control system (C++ / Qt / QML) — Functional prototype with simulated data, designed for future hardware integration 
+- ⚙️📟 [Sterilizer](https://github.com/K0ron/sterilizer)  
+  Embedded sterilizer control system (C++ / Qt / QML) — Functional prototype with simulated data, designed for future hardware integration
+
+- 🥩 [Showcase website for a brasero catering business](https://www.lesbonnesgueules.fr)  
+  Professional showcase website for a local catering business (menu, team, services, contact form)
+
+- 🔺 [AirVentureFront](https://github.com/K0ron/AirVentureFront)  
+  Frontend application built with Angular for booking adventure activities (school project)
+
+- 🔧 [AirVentureBack](https://github.com/K0ron/AirVentureBack)  
+  Backend API for booking activities (Java + Spring Boot + MySQL)
+
+- 🌐 [ng-pokemon-app](https://github.com/K0ron/ng-pokemon-app)  
+  Angular application focused on routing and component design (personal training project)
 
 ---
 
-## 💼 Stack technique
+## 💼 Technical Skills
 
-### 👨‍💻 Langages
+### 👨‍💻 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70"/>
@@ -44,7 +59,7 @@ Here are some of my recent projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
 </p>
 
-### 🗄️ Bases de données
+### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" />
@@ -56,14 +71,14 @@ Here are some of my recent projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
 </p>
 
-### 🖥️ Outils
+### 🖥️ Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="70" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="70" />
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -74,4 +89,5 @@ Here are some of my recent projects:
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevincaron)
+- 📧 Email: **kevin.caron.91@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/kevincaron
